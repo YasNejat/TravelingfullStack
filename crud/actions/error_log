@@ -1,0 +1,5 @@
+[15-Jun-2021 20:34:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/nejatcodefactory/public_html/CF-CR12-YasNejat/crud/actions/a_update.php on line 54
+[15-Jun-2021 20:34:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/nejatcodefactory/public_html/CF-CR12-YasNejat/crud/actions/a_update.php on line 54
+[15-Jun-2021 20:35:19 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/nejatcodefactory/public_html/CF-CR12-YasNejat/crud/actions/a_update.php on line 54
+[16-Jun-2021 11:23:11 UTC] PHP Warning:  unlink(/crud/pictures/60c9df1409745.jpeg): No such file or directory in /home/nejatcodefactory/public_html/CF-CR12-YasNejat/crud/actions/a_delete.php on line 7
+[16-Jun-2021 11:23:23 UTC] PHP Warning:  unlink(/crud/pictures/60967c98736c9.jpeg): No such file or directory in /home/nejatcodefactory/public_html/CF-CR12-YasNejat/crud/actions/a_delete.php on line 7
